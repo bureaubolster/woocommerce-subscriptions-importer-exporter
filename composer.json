@@ -1,0 +1,6 @@
+{
+    "name": "bureaubolster/woocommerce-subscriptions-importer-exporter",
+    "type": "wordpress-plugin",
+    "version": "2.0-beta",
+    "require": {}
+}

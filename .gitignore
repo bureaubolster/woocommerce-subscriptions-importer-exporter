@@ -12,3 +12,5 @@ sftp-config.json
 #grunt
 /node_modules/
 npm-debug.log
+
+/vendor/
